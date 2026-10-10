@@ -1,0 +1,9 @@
+# Data files the programs create when you run them
+*.txt
+*.csv
+*.json
+
+# Python
+__pycache__/
+.venv/
+.DS_Store
